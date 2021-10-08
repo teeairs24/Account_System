@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "AccountSystem",
+      "type": "java.lang.String",
+      "description": "Description for swagger.application.name."
+    },
+    {
+      "name": "2.9.2",
+      "type": "java.lang.String",
+      "description": "Description for swagger.application.version."
+    },
+    {
+      "name": "This is the account system",
+      "type": "java.lang.String",
+      "description": "Description for swagger.application.description."
+    },
+    {
+      "name": "swagger.application.name",
+      "type": "java.lang.String",
+      "description": "Description for swagger.application.name."
+    }
+  ] }
